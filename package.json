@@ -1,11 +1,11 @@
 {
-  "name": "konnektid-logger",
-  "description": "A module for logging events, logging errors and debugging in Konnektid",
+  "name": "js-module-boilerplate",
+  "description": "Opinionated javascript template to build module in javascript and module",
   "main": "dist/index.js",
   "author": "Simone Potenza",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "bugs": {
-    "url": "http://github.com/MichelVisser/Konnektid/issues"
+    "url": "http://github.com/konnektid/js-module-boilerplate"
   },
   "scripts": {
     "eslint": "eslint src",
